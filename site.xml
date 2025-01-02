@@ -1,16 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <!-- Define the feature -->
-   <feature 
-      url="features/com.hounddog.ai.scanner.feature_1.0.0.jar" 
-      id="com.hounddog.ai.scanner.feature" 
-      version="1.0.0">
-      <!-- Assign the feature to the category -->
-      <category name="hounddog_category"/>
-   </feature>
-
-   <!-- Define the category -->
-   <category-def 
-      name="hounddog_category" 
-      label="HoundDog.ai_Category"/>
+   <feature url="features/HoundDogFeature_1.0.1.jar" id="HoundDogFeature" version="1.0.1"/>
 </site>
