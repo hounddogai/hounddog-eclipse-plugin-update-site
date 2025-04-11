@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ai.hounddog.scanner.feature_1.0.5.jar" id="ai.hounddog.scanner.feature" version="1.0.5">
+      <category name="HoundDogPlugin"/>
+   </feature>
+   <category-def name="HoundDogPlugin" label="HoundDog Plugin"/>
+</site>
